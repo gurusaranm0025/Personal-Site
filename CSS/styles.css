@@ -1,0 +1,152 @@
+/*********************************tag******************************/
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    color: #1A120B;
+    background-color: #F9F6F7;
+}
+
+h1 {
+    color: #594545;
+    font-family: 'Sacramento',Roboto, sans-serif;
+}
+
+h2 {
+    font-weight: normal;
+    color: #594545;
+    font-size: 2.5rem;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #42032C;
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 7px;
+    width: 20%;
+    color: #594545;
+    height: 2px;
+    margin: 150px auto 100px auto;
+}
+
+p {
+    line-height: 2;
+}
+
+a {
+    font-family: 'Roboto', sans-serif;
+    color: #594545;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #8E3200;
+}
+/********************************h1********************************/
+.name {
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+}
+/*********************************div******************************/
+.top-container {
+    background-color: #F5EBE0;
+    position: relative;
+    padding-top: 99px;
+}
+
+
+.middle-container {
+    margin: 100px 0;
+}
+
+.bottom-container {
+    margin: 50px auto 0px auto;
+    background-color: #F5EBE0;
+    padding: 50px auto 50px auto;
+}
+
+.skill-row {
+    margin: 100px auto 200px auto;
+    width: 50%;
+    text-align: center;
+}
+
+.python-skill {
+    clear: left;
+}
+
+/*********************************Images******************************/
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.mountain {
+    margin-bottom:0;
+}
+
+.coding {
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.python {
+    float: right;
+    width: 25%;
+    height: 25%;
+    margin-left: 30px;
+}
+/********************************p**********************************/
+/*.descript {
+    font-size: 2.5rem;
+}*/
+
+.rookie {
+    text-decoration: underline;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.copyright {
+    margin: 0px;
+    color: #8E3200;
+    font-size: 0.75rem;
+    margin: 10px auto 0px auto;
+}
+/********************************button**********************************/
+.btn {
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    color: #ffffff;
+    font-size: 20px;
+    background: #C58940;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FAEAB1;
+    text-decoration: none;
+  }
+  /********************************button**********************************/
+.footer-link {
+    margin-top: 50px;
+}
